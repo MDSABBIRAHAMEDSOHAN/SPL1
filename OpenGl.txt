@@ -1,2 +1,1 @@
-https://www.youtube.com/watch?v=_rZ918eO2_Q&list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY&index=6
-https://www.youtube.com/watch?v=HDxsAPDrCiU&list=PLN4IrAvtsvLszyHLNS7wZA9q4z2TUOv6y
+https://learnopengl.com/Getting-started/OpenGL
