@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/basic-graphic-programming-in-c/
+http://cplusplus.happycodings.com/computer-graphics/code6.html
+http://cplusplus.happycodings.com/computer-graphics/code20.html
