@@ -1,34 +1,17 @@
-#include<iostream>
-#include <graphics.h>
+# include <iostream>
+# include <graphics.h>
+# pragma GCC diagnostic ignored "-Wwrite-strings"
 
-//int gd = DETECT ,gm;
+using namespace std;
 
-int driver=DETECT,mode;
-
-void graphinit()
-{
-   int driver=DETECT,mode;
-   initgraph(&driver,&mode," ");
-}
-//
-
-int main (void)
+int main ()
 
 {
-    void graphinit();
-    //int gd = DETECT ,gm;
-    //initgraph(&gd,&gm," ");
-    initgraph(&driver,&mode," ");
-  //  circle(200,200,100);
-
-
-  // print dot//
-    putpixel(100,50,WHITE);
-    setcolor(YELLOW);
-    line(10,10,50,50);
+    int gd = DETECT,gm;
+    initgraph(&gd, &gm, " ");
+    circle(200,200,100);
     getch();
     closegraph();
 
     return 0;
-
 }
